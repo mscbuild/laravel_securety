@@ -18,7 +18,7 @@ Laravel, as one of the most popular PHP frameworks, provides a lot of built-in s
 
 **Prevention:**
 
-_ Always use Eloquent ORM or Laravel's query builder.
+- Always use Eloquent ORM or Laravel's query builder.
 
 - Avoid raw queries if possible.
 
