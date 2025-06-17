@@ -108,13 +108,13 @@ Laravel, as one of the most popular PHP frameworks, provides a lot of built-in s
 
 **Vulnerability:**
 
-_ Laravel Prot: Laravel p
+- Laravel Prot: Laravel p
 
 - How: Developers
 
 **Prevention:**
 
--Use Laravel’s buil
+- Use Laravel’s buil
 
 - Implemen
 
