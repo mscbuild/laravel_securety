@@ -1,4 +1,12 @@
 # Laravel/framework vulnerabilities
+ ![](https://komarev.com/ghpvc/?username=mscbuild) 
+ ![](https://img.shields.io/github/license/mscbuild/e-learning) 
+ ![](https://img.shields.io/github/repo-size/mscbuild/laravel_securety)
+![](https://img.shields.io/badge/PRs-Welcome-green)
+![](https://img.shields.io/badge/code%20style-python-green)
+![](https://img.shields.io/github/stars/mscbuild)
+![](https://img.shields.io/badge/Topic-Github-lighred)
+![](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmscbuild)
 
 Laravel, as one of the most popular PHP frameworks, provides a lot of built-in security features, but like any software, it is not immune to security vulnerabilities. Over time, various security issues have been discovered in Laravel, although many have been patched. Some of the common vulnerabilities or security pitfalls in Laravel and similar frameworks, if not managed properly, include:
 
@@ -275,3 +283,6 @@ HTML
   # Conclusion
 
   Security is an ongoing process that requires vigilance, expertise, and adherence to best practices. For Laravel applications, relying solely on default security features is not enough. Implementing a robust security strategy, conducting regular audits, and staying informed about emerging threats is essential to protecting both the application and its users from the consequences of ineffective security protocols.The reality is that Laravel, while robust, cannot guarantee security on its own. Developers must stay proactive by combining Laravel’s built-in features with industry-standard security protocols and best practices. A secure Laravel application is not just about using the right tools, it’s about cultivating a **security-first mindset** and continuously evolving to stay ahead of potential threats.
+
+> [!WARNING]
+> Warning: For informational purposes only, we do not recommend using illegal actions. Please note potential issues and possible alternative solutions.
