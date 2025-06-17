@@ -1,4 +1,5 @@
 # 🎯 Laravel/framework vulnerabilities
+![Image alt](Laravel-cover-image.png)
  ![](https://komarev.com/ghpvc/?username=mscbuild) 
  ![](https://img.shields.io/github/license/mscbuild/e-learning) 
  ![](https://img.shields.io/github/repo-size/mscbuild/laravel_securety)
