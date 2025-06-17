@@ -1,0 +1,10 @@
+parameters:
+    level: 5  # Level of analysis (0 = least strict, 8 = most strict)
+    paths:
+        - app
+        - routes
+        - database/factories
+    autoload_files:
+        - %rootDir%/../../../vendor/autoload.php  # Ensure autoloading for dependencies
+    extensions:
+        - Larastan\LarastanExtension  # Enable Larastan for Laravel-specific rules
