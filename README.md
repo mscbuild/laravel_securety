@@ -260,7 +260,7 @@ HTML
 
 # Summary of Key XSS Protection Strategies:
 
-_ Escape all user-generated content using Blade's {{ }} syntax.
+- Escape all user-generated content using Blade's {{ }} syntax.
 
 - Sanitize input when raw HTML is necessary using libraries like HTMLPurifier.
 
